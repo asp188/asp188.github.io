@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: For the coming 2015 Spring Festival
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Now, In China, we are approaching the biggest festval - Spring Festval. May the road to home is safe and happy and the days are happy and warm.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+After this, I will prepare for the graduation for my 4-year PhD in CS. The thesis is tough to write amd the committe is hard to defend. I will thrive to battle this.
